@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap build" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <!--
+    LE FICHIER MANIFESTE DE CE PACKAGE A ÉTÉ GÉNÉRÉ PAR LE PROCESSUS DE GÉNÉRATION.
+
+    Les modifications apportées à ce fichier seront perdues lors de la regénération. Pour corriger les erreurs présentes dans ce fichier, modifiez le fichier source .appxmanifest.
+
+    Pour plus d'informations sur les fichiers manifeste, consultez http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="d01834b7-fd5a-41d6-8f2e-c797d4eaeaa6" Publisher="CN=micha" Version="1.0.9.0" ProcessorArchitecture="x86" />
+  <Properties>
+    <DisplayName>WiiJoyPilotPackagingProject</DisplayName>
+    <PublisherDisplayName>micha</PublisherDisplayName>
+    <Logo>Images\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.14393.0" MaxVersionTested="10.0.22621.0" />
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.14393.0" MaxVersionTested="10.0.22621.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="FR-FR" />
+    <Resource uap:Scale="100" />
+    <Resource uap:Scale="120" />
+    <Resource uap:Scale="140" />
+    <Resource uap:Scale="160" />
+    <Resource uap:Scale="180" />
+    <Resource uap:DXFeatureLevel="dx9" />
+    <Resource uap:DXFeatureLevel="dx10" />
+    <Resource uap:DXFeatureLevel="dx11" />
+    <Resource uap:Scale="200" />
+    <Resource uap:Scale="220" />
+    <Resource uap:Scale="240" />
+    <Resource uap:Scale="300" />
+    <Resource uap:Scale="400" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="WiiJoyPilot\WiiJoyPilot.exe" EntryPoint="Windows.FullTrustApplication">
+      <uap:VisualElements DisplayName="WiiJoyPilotPackagingProject" Description="WiiJoyPilotPackagingProject" BackgroundColor="transparent" Square150x150Logo="Images\Square150x150Logo.png" Square44x44Logo="Images\Square44x44Logo.png">
+        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" />
+        <uap:SplashScreen Image="Images\SplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <rescap:Capability Name="runFullTrust" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="Microsoft.Build.DesktopBridge.Tasks.dll" Version="17.3.32727.363" />
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETFramework,Version=v4.5.1" />
+    <build:Item Name="VisualStudio" Version="17.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2022" />
+    <build:Item Name="OperatingSystem" Version="10.0.22621.674 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.3.32728.75" />
+    <build:Item Name="ProjectGUID" Value="993f60b1-ec44-49d9-947a-98d98e85961d" />
+    <build:Item Name="makepri.exe" Version="10.0.22621.1 (WinBuild.160101.0800)" />
+  </build:Metadata>
+</Package>

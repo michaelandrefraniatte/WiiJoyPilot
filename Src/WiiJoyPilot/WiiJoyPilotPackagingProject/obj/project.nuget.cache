@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uT2mGHusZ9Z4hZpLgxtcjvcq/UXTSsE4CcqEOjgAKHkWstHZj68byVzLUm/uwwcYCeG+Bdqdze20wLA2ap6ipg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Documents\\File\\perso\\WiiJoyPilot\\Src\\WiiJoyPilot\\WiiJoyPilotPackagingProject\\WiiJoyPilotPackagingProject.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512"
+  ],
+  "logs": []
+}

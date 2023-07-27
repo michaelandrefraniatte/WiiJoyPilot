@@ -1,0 +1,2 @@
+MainPackage=C:\Users\micha\Documents\GitHub\WiiJoyPilot\Src\uwp\WiiJoyPilot\WiiJoyPilotPackagingProject\bin\x86\Debug\WiiJoyPilotPackagingProject_1.0.10.0_x86_Debug.appx
+SymbolPackage=C:\Users\micha\Documents\GitHub\WiiJoyPilot\Src\uwp\WiiJoyPilot\WiiJoyPilotPackagingProject\obj\x86\Debug\Symbols\WiiJoyPilotPackagingProject_1.0.10.0_x86_Debug.appxsym

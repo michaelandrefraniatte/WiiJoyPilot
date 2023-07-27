@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-SUG97MOJ</Machine>
+    <WindowsUser>mic</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d01834b7-fd5a-41d6-8f2e-c797d4eaeaa6</PackageIdentityName>
+    <PackageIdentityPublisher>CN=micha</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\bin\x86\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilot\bin\x86\Release\WiiJoyPilot.exe">
+      <PackagePath>WiiJoyPilot\WiiJoyPilot.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilot\bin\x86\Release\WiiJoyPilot.exe.config">
+      <PackagePath>WiiJoyPilot\WiiJoyPilot.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
