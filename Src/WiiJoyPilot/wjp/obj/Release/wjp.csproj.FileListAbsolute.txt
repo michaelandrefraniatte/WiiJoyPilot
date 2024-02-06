@@ -34,3 +34,9 @@ C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\
 C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.dll
 C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.pdb
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\bin\Release\wjp.dll
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\bin\Release\wjp.pdb
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.dll
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\wjp\obj\Release\wjp.pdb

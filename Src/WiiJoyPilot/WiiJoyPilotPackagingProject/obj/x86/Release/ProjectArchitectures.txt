@@ -1,1 +1,1 @@
-C:\Users\micha\Documents\File\perso\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\WiiJoyPilotPackagingProject.wapproj;x86
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilotPackagingProject\WiiJoyPilotPackagingProject.wapproj;x86

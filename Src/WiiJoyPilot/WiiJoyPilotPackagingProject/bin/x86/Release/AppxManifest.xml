@@ -33,13 +33,13 @@
     <rescap:Capability Name="runFullTrust" />
   </Capabilities>
   <build:Metadata>
-    <build:Item Name="Microsoft.Build.DesktopBridge.Tasks.dll" Version="17.4.33118.351" />
+    <build:Item Name="Microsoft.Build.DesktopBridge.Tasks.dll" Version="17.8.37176.49943" />
     <build:Item Name="TargetFrameworkMoniker" Value=".NETFramework,Version=v4.5.1" />
     <build:Item Name="VisualStudio" Version="17.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2022" />
-    <build:Item Name="OperatingSystem" Version="10.0.22621.1409 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.4.33122.133" />
+    <build:Item Name="OperatingSystem" Version="10.0.22621.1 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.8.37259.26410" />
     <build:Item Name="ProjectGUID" Value="993f60b1-ec44-49d9-947a-98d98e85961d" />
-    <build:Item Name="makepri.exe" Version="10.0.22621.1 (WinBuild.160101.0800)" />
+    <build:Item Name="MakePri.exe" Version="10.0.22621.2428 (WinBuild.160101.0800)" />
   </build:Metadata>
 </Package>

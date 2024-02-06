@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilot\obj\x86\Release\
+C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilot\obj\Release\
 WiiJoyPilot
 none
 false
@@ -12,9 +12,9 @@ TRACE
 C:\Users\micha\Documents\github\WiiJoyPilot\Src\WiiJoyPilot\WiiJoyPilot\App.xaml
 1219584333
 
-51579654133
+6-1159578175
 18-227217533
 MainWindow.xaml;
 
-False
+True
 
