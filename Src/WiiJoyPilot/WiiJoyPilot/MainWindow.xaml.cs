@@ -39,6 +39,24 @@ namespace WiiJoyPilot
             ExtractResourceToFile("MotionInputPairing");
             ExtractResourceToFile("lhidread");
             System.Windows.Application.Current.MainWindow.Loaded += MainWindow_Loaded;
+            this.KeyDown += MainWindow_KeyDown;
+        }
+        private void MainWindow_KeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            OnKeyDown(e.Key);
+        }
+        private void OnKeyDown(System.Windows.Input.Key keyData)
+        {
+            if (keyData == System.Windows.Input.Key.F1)
+            {
+                const string message = "• Author: Michaël André Franiatte.\n\r\n\r• Contact: michael.franiatte@gmail.com.\n\r\n\r• Publisher: https://github.com/michaelandrefraniatte.\n\r\n\r• Copyrights: All rights reserved, no permissions granted.\n\r\n\r• License: Not open source, not free of charge to use.";
+                const string caption = "About";
+                MessageBox.Show(message, caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            if (keyData == System.Windows.Input.Key.Escape)
+            {
+                this.Close();
+            }
         }
         public Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
         {
